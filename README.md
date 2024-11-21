@@ -76,6 +76,8 @@ If you would like to contribute to VerbaScribe, please fork the repository and s
 
 ![demo_1](https://github.com/user-attachments/assets/433c8358-3e7d-4732-b549-7b197fbd6bc7)
 
+![demo_1a](https://github.com/user-attachments/assets/da0cc861-45e8-4264-8501-9731d47a71a4)
+
 ![demo_2](https://github.com/user-attachments/assets/cf2f6280-ffff-49d8-9efe-db10413123a4)
 
 ![demo_3](https://github.com/user-attachments/assets/ecc0b432-cf49-48bc-8ca9-12d8a87dbb70)
