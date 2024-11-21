@@ -73,7 +73,7 @@ python app.py
 
 If you would like to contribute to VerbaScribe, please fork the repository and submit a pull request with your proposed changes. We welcome contributions that enhance the functionality, improve the user experience, or fix any issues.
 
-
+https://github.com/user-attachments/assets/d83c27e6-1cb3-4773-aed1-efbbc682f117
 
 ![demo_1](https://github.com/user-attachments/assets/433c8358-3e7d-4732-b549-7b197fbd6bc7)
 
@@ -90,8 +90,6 @@ If you would like to contribute to VerbaScribe, please fork the repository and s
 ![demo_6](https://github.com/user-attachments/assets/30f79b15-a0a6-4352-815f-a5dc947e4c90)
 
 ![demo_7](https://github.com/user-attachments/assets/f679b504-f8e2-40bd-a936-db64803d2b96)
-
-https://github.com/user-attachments/assets/d83c27e6-1cb3-4773-aed1-efbbc682f117
 
 
 
