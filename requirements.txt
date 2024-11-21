@@ -1,0 +1,5 @@
+Flask
+Werkzeug
+pydub
+glob2
+SpeechRecognition
